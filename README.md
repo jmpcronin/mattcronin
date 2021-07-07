@@ -1,32 +1,14 @@
-## Welcome to My Page
+## Welcome
 
 You can use the [editor on GitHub](https://github.com/jmpcronin/mattcronin/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am the Principal at Marblehead Community Charter Public School.  
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I am a passionate learner. My professional life is dedicated to creating engaging learning environments that promote purposeful learning. As a passionate learner, I know the exhilaration that comes with experimenting with ideas and building something new. I believe that everyone deserves the same opportunity to learn and create.
 
 ### Jekyll Themes
 
